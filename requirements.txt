@@ -1,0 +1,8 @@
+torch
+torchvision
+monai
+flwr
+matplotlib
+opencv-python
+plotly
+tqdm

@@ -1,0 +1,8 @@
+uw-madison-gi-tract-image-segmentation/
+__pycache__
+*.zip
+env3.9
+.ipynb_checkpoints
+processed-v1
+.vscode
+.idea

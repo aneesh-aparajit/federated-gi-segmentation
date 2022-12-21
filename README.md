@@ -1,2 +1,3 @@
-# federated-gi-segmentation
- Federated GI Segmentation.
+# Federated GI Segmentation
+
+## Load the Data
