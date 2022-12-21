@@ -38,3 +38,7 @@ class Config:
 cd src
 python preprocess.py
 ```
+
+-   **Instead running the entire code and waiting for an hour, you could also download the dataset which I processed prior.**
+    -   You could download this [here]().
+        -   Also do upvote the dataset if you find it useful!
